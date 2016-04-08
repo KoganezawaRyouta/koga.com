@@ -1,0 +1,8 @@
+*.db
+!.gitkeep
+.DS_Store
+pkg/*
+bin/*
+src/github.com
+vendor/*
+!vendor/manifest
